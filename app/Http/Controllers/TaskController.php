@@ -17,6 +17,8 @@ class TaskController extends Controller
         * @var TaskRepository
         */
         protected $tasks;
+
+        
  
     /**
         * コンストラクタ
